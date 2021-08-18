@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**raghavyuva/raghavyuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Raghav! 👋
 
-Here are some ideas to get you started:
+  
+## 🚀 About Me
+I'm a full stack developer.
+Interested in converting specific real world problems to a project.Have been working in the field of React js for 2 years. Learning to be an Ethical Hacker.Pursuing BE as a part of an Education. Have participated in industry level projects as a part of Several Internships. Being a Developing partner in a startup , gained knowledge about Software Engineering Process in Real time. The certificate listed are a sign of Knowledge in specific field after the practical implementation. Showed My enthu In doing social works,In turn worked with Yuva brigade for a betterment of the country along with the people as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## 🛠 Skills
+Javascript, HTML, CSS, Java, C, C++, 
+
+## 🛠 Frameworks
+node.js, express.js, react, react-native, svelte.js, tailwindcss, Next.js 
+
+## Applications
+mongo db, postman, linux, compass, vscode, 
+
+  
