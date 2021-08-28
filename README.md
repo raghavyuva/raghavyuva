@@ -2,7 +2,7 @@
 # Hi, I'm Raghav! 👋
 
   
-![Logo](https://avatars.githubusercontent.com/u/53376933?v=4)
+![Logo](https://github.com/raghavyuva/raghavyuva/raw/master/logo.png)
 
     
 ## 🚀 About Me
