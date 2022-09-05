@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://raghavyuva.com">
-  <img src="https://imgur.com/tdpt1nM.png" alt="raghavyuva"/> 
+  <img src="https://imgur.com/5RM5K4s.png" alt="raghavyuva"/> 
   </a>
      </p>
 <p align="left">
@@ -252,12 +252,6 @@
     alt="raghavyuva"
   />
 </p>
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=raghavyuva&show_icons=true&locale=en"
-    alt="raghavyuva"
-  />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
