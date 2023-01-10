@@ -19,7 +19,6 @@
 </p>
 
 
-- 🔭 I’m currently working on [LucaMail](https://github.com/raghavyuva/LucaMail)
 - 👨‍💻 All of my projects are available at
 [https://raghavyuva.is-a.dev](https://raghavyuva.is-a.dev)
 - 📫 How to reach me
