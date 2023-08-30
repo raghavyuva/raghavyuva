@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://raghavyuva.com">
+   <a href="https://raghavyuva.in">
   <img src="https://imgur.com/5RM5K4s.png" alt="raghavyuva"/> 
   </a>
      </p>
