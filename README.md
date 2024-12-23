@@ -9,7 +9,7 @@
     alt="raghavyuva"
   />
 </p>
-<h1 align="center">https://raghavyuva.in</h1>
+<h1 align="center">Raghavendra Bhat</h1>
 
 ###
 
