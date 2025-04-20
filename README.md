@@ -14,13 +14,14 @@
 
 <h1 align="center">Raghavendra Bhat</h1>
 
-###  About Me
+<div align="center">
+ I'm a passionate Software Developer, always building something exciting.
+ I enjoy creating tools that simplify lives and improve developer experiences.
+ Currently working on **[Nixopus](https://nixopus.com)** – a next-gen VPS management platform.
+ I love self-hosting, automation, and clean UIs.
+ Reach me at: **[raghavyuva.in](https://raghavyuva.in)**
+</div>
 
-- I'm a passionate Software Developer, always building something exciting.
-- I enjoy creating tools that simplify lives and improve developer experiences.
-- Currently working on **[Nixopus](https://nixopus.com)** – a next-gen VPS management platform.
-- I love self-hosting, automation, and clean UIs.
-- Reach me at: **[raghavyuva.in](https://raghavyuva.in)**
 
 ### GitHub Stats
 
