@@ -24,10 +24,6 @@ Reach me at: **[raghavyuva.in](https://raghavyuva.in)**
 
 </div>
 
-
-
-### GitHub Stats
-
 <p align="center">
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavyuva&theme=radical" alt="GitHub Streak" />
